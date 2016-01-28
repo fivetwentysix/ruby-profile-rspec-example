@@ -1,4 +1,4 @@
-require './specs/spec_helper'
+require 'spec_helper'
 
 class Warrior
   attr_accessor :hp, :damage
